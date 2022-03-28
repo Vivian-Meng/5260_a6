@@ -1,0 +1,7 @@
+colossalai
+1. Use Adam as the optimizer
+2. Test the case:
+	1. Default LamdaLR
+	2. Onecycle
+	3. Without learning rate scheduler 
+
